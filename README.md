@@ -15,3 +15,6 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook notebooks/SymphonyDemo.ipynb
 ```
+## Input Files for Demo
+
+The input files for running the demo notebook can be accessed here: https://tinyurl.com/yaba9xuq 
