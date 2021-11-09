@@ -18,3 +18,8 @@ jupyter notebook notebooks/SymphonyDemo.ipynb
 ## Input Files for Demo
 
 The input files for running the demo notebook can be accessed here: https://tinyurl.com/yaba9xuq 
+
+Symphony is associated with the following publication:
+Bachireddy, Azizi, et al.  Mapping the evolution of T cell states during response and resistance to adoptive cellular therapy, Cell Reports, 2021.
+
+Processed data and more information can be found here: https://sites.google.com/view/tcellsdli
